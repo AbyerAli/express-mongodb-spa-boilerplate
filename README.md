@@ -1,11 +1,11 @@
 # ExpressJS Starter Boilerplate
 
-Welcome to the ExpressJS Starter Boilerplate! This repository serves as a foundation for kickstarting your Express.js projects. Get ready to dive into a world of organized code structure, comprehensive API documentation, error handling, and more.
+A full fledeged ExpressJS REST API Boilerplate! This repository serves as a foundation for kickstarting your `Express.js + mongodb + SPA` projects. Features organized code structure, comprehensive API documentation, error handling, and more.
 
 ## installation
 
 ```bash
-git clone
+git clone https://github.com/AbyerAli/express-mongodb-spa-boilerplate.git
 cd expressjs-starter-boilerplate
 yarn install
 yarn start
@@ -14,7 +14,11 @@ or
 
 ```bash
 npm i express-mongo-spa-boilerplate
-yarn add express-mongo-spa-boilerplate
+```
+or
+
+```bash
+npx express-mongo-spa-boilerplate
 ```
 
 ## Features

@@ -1,6 +1,6 @@
+const moment = require('moment');
 const express = require('express');
 const app = express();
-const moment = require('moment');
 const helmet = require('helmet');
 const cookieParser = require('cookie-parser');
 const cors = require('cors');
