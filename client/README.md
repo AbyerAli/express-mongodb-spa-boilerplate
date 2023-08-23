@@ -1,0 +1,1 @@
+- homes your SPA (Single Page Application) or any client-side code.

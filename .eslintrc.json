@@ -1,0 +1,19 @@
+// {
+//     "env": {
+//         "browser": true,
+//         "commonjs": true,
+//         "es2021": true,
+//         "node": true,
+//         "jest": true
+//     },
+//     "extends": "eslint:recommended",
+//     "parserOptions": {
+//         "sourceType": "module",
+//         "allowImportExportEverywhere": true,
+//         "ecmaVersion": 2020
+//     },
+//     "rules": {
+//         "semi": [2, "never"],
+//         "no-case-declarations": "off"
+//     }
+// }
