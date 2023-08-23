@@ -3,7 +3,6 @@
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
-    "private": "true",
     "scripts": {
         "test": "jest",
         "start": "nodemon server.js",
@@ -20,7 +19,7 @@
         "url": ""
     },
     "homepage": "",
-    "author": "byteCodeDevs",
+    "author": "abyerali",
     "dependencies": {
         "bcrypt": "^5.1.0",
         "chalk": "^4.1.0",
@@ -64,6 +63,6 @@
         "version": "1.0.0",
         "description": "Documentation for circlexpress API",
         "title": "API V1 Documentation",
-        "url": "https://circlexpress.com"
+        "url": "https://xyz.com"
     }
 }
