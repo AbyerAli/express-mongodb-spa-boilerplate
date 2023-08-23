@@ -2,6 +2,21 @@
 
 Welcome to the ExpressJS Starter Boilerplate! This repository serves as a foundation for kickstarting your Express.js projects. Get ready to dive into a world of organized code structure, comprehensive API documentation, error handling, and more.
 
+## installation
+
+```bash
+git clone
+cd expressjs-starter-boilerplate
+yarn install
+yarn start
+```
+or 
+
+```bash
+npm i express-mongo-spa-boilerplate
+yarn add express-mongo-spa-boilerplate
+```
+
 ## Features
 
 - **Dotenv Validation:** Environment variables are meticulously validated through the `config.js` file, ensuring a robust configuration setup.
